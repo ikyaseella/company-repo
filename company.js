@@ -1,17 +1,17 @@
 
 
-let company = [
+const company = [
   {
     name: "snow business center",
     startDate: "1990",
     endDate: "2021",
-    category:"techmology",
+    category:"technology",
   },
   {
     name: "snow business 2",
     startDate: "2008",
     endDate: "2011",
-    category:"fiance",
+    category:"Finance",
   },
   {
     name: "snow business 3",
@@ -41,7 +41,7 @@ let company = [
     name: "snow business7",
     startDate: "1999",
     endDate: "2022",
-    category:"fiance",
+    category:"Finance",
   },
   {
     name: "snow business8",
@@ -71,7 +71,7 @@ let company = [
     name: "snow enterprise2",
     startDate: "1990",
     endDate: "2014",
-    category:"finance",
+    category:"Finance",
   },
   {
     name: "snow enterprise3 ",
@@ -149,7 +149,7 @@ let company = [
     name: "snow enterprise 6",
     startDate: "2010",
     endDate: "2012",
-    category:"finance",
+    category:"Finance",
   },
   {
     name: "snow enterprise 7",
